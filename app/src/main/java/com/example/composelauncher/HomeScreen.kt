@@ -74,6 +74,10 @@ fun FeaturedSection(modifier: Modifier = Modifier) {
             ){
             Text(text = "Fuck You")
         }
+
+        Text(text = "Fuck You",
+            fontSize = 100.sp,
+            fontWeight = FontWeight.Bold)
         Image(
             painter = painterResource(id = R.drawable.featured_movie1),
             contentDescription = null,
