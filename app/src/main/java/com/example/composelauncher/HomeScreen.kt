@@ -72,7 +72,7 @@ fun FeaturedSection(modifier: Modifier = Modifier) {
                 .width(200.dp)
                 .height(60.dp),
             ){
-            Text(text = "Test")
+            Text(text = "Fuck You")
         }
         Image(
             painter = painterResource(id = R.drawable.featured_movie1),
